@@ -1,1 +1,1 @@
-
+这里MapReduce，用于Oralce导入数据到Hbase的例子，当然MySQL也同样适用。打包生成Jar，放到Hadoop环境，添加好额外需要的包，就可以通过hadoop jar命令运行MapReduce程序。
